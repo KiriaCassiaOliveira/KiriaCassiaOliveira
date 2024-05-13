@@ -17,3 +17,5 @@ Olá! Sou a Kíria, uma desenvolvedora apaixonada por tecnologia, com formação
 
 
 Agradeço por visitar meu perfil! Espero que você encontre algo interessante por aqui. 😊
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KiriaCassiaOliveira&layout=compact&theme=dracula)
