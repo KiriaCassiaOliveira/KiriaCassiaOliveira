@@ -1,16 +1,19 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil!
 
-<!--
-**KiriaCassiaOliveira/KiriaCassiaOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou a Kíria, uma desenvolvedora apaixonada por tecnologia, com formação em Análise e Desenvolvimento de Sistemas. Com 4 anos de experiência na área, tenho me dedicado principalmente ao desenvolvimento front-end.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Formação: Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente, estou me aprimorando em React.
+- 💼 Experiência: 4 anos de experiência em desenvolvimento front-end.
+- 👩‍💻 Linguagens e Tecnologias: HTML, CSS, JavaScript, React.
+- 📚 Buscando sempre aprender e evoluir minhas habilidades técnicas.
+- 📚 Cursos: Alura, Bootcamps, Origamid, Udemy, Impacta...
+
+## Contato
+
+- 💬 Estou sempre aberta para colaborações e oportunidades interessantes. Sinta-se à vontade para entrar em contato comigo através do meu https://www.linkedin.com/in/kiriacassia/.
+
+
+Agradeço por visitar meu perfil! Espero que você encontre algo interessante por aqui. 😊
