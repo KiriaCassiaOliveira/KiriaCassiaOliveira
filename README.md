@@ -9,7 +9,7 @@ Olá! Sou a Kíria, uma desenvolvedora apaixonada por tecnologia, com formação
 - 💼 Experiência: 4 anos de experiência em desenvolvimento front-end.
 - 👩‍💻 Linguagens e Tecnologias: HTML, CSS, JavaScript, React.
 - 📚 Buscando sempre aprender e evoluir minhas habilidades técnicas.
-- 📚 Cursos: Alura, Bootcamps, Origamid, Udemy, Impacta...
+- 📚 Cursos: Alura, Bootcamps, Origamid, JStack, Udemy, Impacta...
 
 ## Contato
 
